@@ -10,8 +10,7 @@ A simple and effective Todo App built using HTML, CSS, and JavaScript.
 - **Persistent Storage:** Tasks are saved in the local storage, so they persist even after refreshing the page.
 
 ## Screenshot
-
-[href='screenshot.png']
+![Todo App Screenshot](screenshot.png)
 
 ## Installation
 
